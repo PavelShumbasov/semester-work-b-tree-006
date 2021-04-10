@@ -1,4 +1,4 @@
-B-Tree
+# B-Tree
 
 [![CMake](https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006/actions/workflows/cmake.yml)
 
